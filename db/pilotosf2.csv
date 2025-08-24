@@ -22,11 +22,11 @@ Michael Lopes,br,42,0,0,1,0,0,0,0,1,7,Invicta,FDFE01,P9,P18
 Adriano Tahariel,br,40,0,0,0,0,0,0,0,2,8,AIX,67e70d,P11,P20
 Hernan,ar,71,0,2,4,0,0,0,0,1,5,Trident,293780,P3,P16
 Andrés,ar,0,0,0,0,0,0,0,0,0,0,Trident,293780,P999,P999
-FTronc,us,33,0,0,2,0,0,0,0,0,3,,000000ff,P9,P12
-cotocosemdedo,br,5,0,0,0,0,0,0,0,0,1,,000000ff,P16,P16
-Furiouz,br,8,0,0,1,0,0,0,0,0,1,,000000ff,P10,P10
-Don Pipa,ar,32,0,0,2,0,0,0,0,0,3,,000000ff,P10,P11
-Jean,br,5,0,0,0,0,0,0,0,0,1,,000000ff,P16,P16
+FTronc1,us,0,0,0,0,0,0,0,0,0,0,Reserve,000000ff,P999,P0
+cotocosemdedo1,br,0,0,0,0,0,0,0,0,0,0,Reserve,000000ff,P999,P0
+Furiouz1,br,0,0,0,0,0,0,0,0,0,0,Reserve,000000ff,P999,P0
+Don Pipa1,ar,0,0,0,0,0,0,0,0,0,0,Reserve,000000ff,P999,P0
+Jean1,br,0,0,0,0,0,0,0,0,0,0,Reserve,000000ff,P999,P0
 Piloto 6,br,0,,,,,,,,,,,,,
 Piloto 7,,0,,,,,,,,,,,,,
 Piloto 8,,0,,,,,,,,,,,,,
